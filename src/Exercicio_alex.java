@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Exercicio_alex {
     public static void main(String[] args) {
         int num;
-        String numNaoTratado;
         Scanner input = new Scanner(System.in);
 
         System.out.print("Digite um numero: ");
